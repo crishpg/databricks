@@ -1,4 +1,9 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC Incluido texto para testar uso do GIT
+
+# COMMAND ----------
+
 # MAGIC %sql
 # MAGIC SELECT * FROM `workspace`.`default`.`global_superstore`;
 
