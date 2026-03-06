@@ -1,0 +1,1 @@
+Incluido primeiro Trecho codigo do Readme.MD
